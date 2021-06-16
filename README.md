@@ -9,7 +9,9 @@ You can change GPIO pins.
 1. Download
 2. chmod +x ./hassha.sh
 3. Connect hassha bell switch GPIO21 and 3v3 pin.
-4. ./hassha.sh melody.wav voice.wav
+4. ./hassha.sh melody.wav voice.wav  
+
+[![](./filelist_sample.png)](./filelist_sample.png)
 
 # Music available
 * melody.wav
