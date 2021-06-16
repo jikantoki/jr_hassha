@@ -11,7 +11,18 @@ You can change GPIO pins.
 3. Connect hassha bell switch GPIO21 and 3v3 pin.
 4. ./hassha.sh melody.wav voice.wav  
 
-[![](./filelist_sample.png)](./filelist_sample.png)
+Caution: This isn't include *.wav files. Please make yourself.
+[![](./filelist_sample.png)](./filelist_sample.png)  
+# Sample commands
+* OK Pattern
+* * $./hassha.sh flower_shop.wav 1.wav
+* * $./hassha.sh hidamari.wav 4.wav
+* * $sudo ./hassha.sh gota_del_vient.wav 6.wav
+
+* NG Pattern
+* * $hassha.sh flower_shop.wav 1.wav
+* * $./hassha flower_shop 1
+* * $./hassha.sh flower_shop.wav default
 
 # Music available
 * melody.wav
