@@ -1,3 +1,6 @@
+[Japanese description is here.](https://blog.caramelos.xyz/electro/raspi_hassha/ "Japanese description")
+English description is this file.
+
 # About jr_hassha
 Hey guys! We have a gift for you!  
 This is able to play Japan Railway Hassha Melody.  
