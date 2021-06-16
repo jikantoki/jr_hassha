@@ -20,5 +20,5 @@ You can change GPIO pins.
 * * Caution: This available *.wav files only
 
 # Sample Video
-Please click image.
+Please click image.  
 [![](https://img.youtube.com/vi/fCtRBINqf8A/0.jpg)](https://www.youtube.com/watch?v=fCtRBINqf8A)
