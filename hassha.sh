@@ -49,6 +49,7 @@ while :; do
 	#ここでドア閉まる放送する
 	door_close(){
 		echo "ドア閉め放送中"
+		sleep 0.5
 		aplay $1
 		echo "再生できます"
 	}
